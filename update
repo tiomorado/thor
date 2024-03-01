@@ -1,5 +1,5 @@
 {
-    "Version": "1.0.4",
+    "Version": "1.0.5",
     "ReleaseNotes": "¡Nueva actualización disponible!🧩 \n\n🔥NOVEDADES: MEJORAMIENTO DE SERVIDORES.\n\nMANTÉN LA APLICACIÓN SIEMPRE ACTUALIZADA PARA DISFRUTAR DE LOS PRÓXIMOS SERVICIOS 🏆\nSi usted está conectado y no le funciona correctamente, comuníquese con SOPORTE. ⚙️\n 😎¡DISFRUTA!😎",
     "Sms": "",
     "UrlUpdate": "https://github.com/tiomorado/thor/raw/main/update",
@@ -49,7 +49,7 @@
         {
       "Name": "CLARO V2✅",
             "FLAG": "vivo",
-            "Payload": "HEAD / HTTP/1.1[crlf]Host: gt.claropayment.com[crlf][crlf][split]GET / HTTP/1.1[crlf]Host: f.hnetcol.online[crlf]Connection: Upgrade[crlf]Speed-100: [crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "HEAD / HTTP/1.1[crlf]Host: gt.claropayment.com[crlf][crlf][split]GET / HTTP/1.1[crlf]Host: d333qzgvtqvzil.cloudfront.net[crlf]Connection: Upgrade[crlf]Speed-100: [crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "gt.claropayment.com",
