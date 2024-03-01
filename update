@@ -1,7 +1,7 @@
 {
-    "Version": "1.0.2",
+    "Version": "1.0.4",
     "ReleaseNotes": "¡Nueva actualización disponible!🧩 \n\n🔥NOVEDADES: MEJORAMIENTO DE SERVIDORES.\n\nMANTÉN LA APLICACIÓN SIEMPRE ACTUALIZADA PARA DISFRUTAR DE LOS PRÓXIMOS SERVICIOS 🏆\nSi usted está conectado y no le funciona correctamente, comuníquese con SOPORTE. ⚙️\n 😎¡DISFRUTA!😎",
-    "Sms": "https://github.com/tiomorado/thor/raw/main/sms",
+    "Sms": "",
     "UrlUpdate": "https://github.com/tiomorado/thor/raw/main/update",
     "EmailFeedback": "",
     "UrlContato": "",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "SERVIDOR BR 6",
+            "Name": "VIP",
             "TYPE": "free",
             "FLAG": "br.png",
             "ServerIP": "164.90.128.228",
@@ -47,6 +47,16 @@
             "Info": "Proxy"
         },
         {
+      "Name": "CLARO V2✅",
+            "FLAG": "vivo",
+            "Payload": "HEAD / HTTP/1.1[crlf]Host: gt.claropayment.com[crlf][crlf][split]GET / HTTP/1.1[crlf]Host: f.hnetcol.online[crlf]Connection: Upgrade[crlf]Speed-100: [crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "gt.claropayment.com",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
       "Name": "Liberty Música✅",
             "FLAG": "vivo",
             "Payload": "",
@@ -57,7 +67,47 @@
             "Info": "Ssl"
         },
         {
-      "Name": "Liberty WhatsApp✅",
+      "Name": "Liberty Música V2✅",
+            "FLAG": "vivo",
+            "Payload": "",
+            "SNI": "music.amazon.com",
+            "TlsIP": "f.netcol.nl",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Ssl"
+        },
+        {
+      "Name": "Liberty Pack Video✅",
+            "FLAG": "vivo",
+            "Payload": "",
+            "SNI": "netflix.com",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Ssl"
+        },
+        {
+      "Name": "Liberty Pack Redes✅",
+            "FLAG": "vivo",
+            "Payload": "",
+            "SNI": "twitter.com",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Ssl"
+        },
+        {
+      "Name": "Liberty Pack YouTube✅",
+            "FLAG": "vivo",
+            "Payload": "",
+            "SNI": "youtube.com",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Ssl"
+        },
+        {
+      "Name": "Liberty Pack bono✅",
             "FLAG": "vivo",
             "Payload": "",
             "SNI": "whatsapp.com",
