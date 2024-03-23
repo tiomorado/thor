@@ -115,6 +115,16 @@
             "ProxyIP": "",
             "ProxyPort": "",
             "Info": "Ssl"
-        }
+        },
+         {
+      "Name": "Test",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.6[crlf]Host: ayuda.tigo.com.co[crlf]Expect: 100-continue[lf][lf][split][lf][lf]GET / HTTP/1.1[crlf]Host: f.hnetcol.online[lf]Expect: 100-continue[lf]Connection: Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf]",
+            "SNI": "whatsapp.com",
+            "TlsIP": "104.16.51.111",
+            "ProxyIP": "104.16.51.111",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        } 
     ]
 }
