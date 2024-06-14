@@ -1,5 +1,5 @@
 {
-    "Version": "1.0.8",
+    "Version": "1.0.9",
     "ReleaseNotes": "¡Nueva actualización disponible!🧩 \n\n🔥NOVEDADES: MEJORAMIENTO DE SERVIDORES.\n\nMANTÉN LA APLICACIÓN SIEMPRE ACTUALIZADA PARA DISFRUTAR DE LOS PRÓXIMOS SERVICIOS 🏆\nSi usted está conectado y no le funciona correctamente, comuníquese con SOPORTE. ⚙️\n 😎¡DISFRUTA!😎",
     "Sms": "",
     "UrlUpdate": "https://github.com/tiomorado/thor/raw/main/update",
@@ -17,8 +17,8 @@
             "Name": "VIP",
             "TYPE": "free",
             "FLAG": "br.png",
-            "ServerIP": "45.55.41.189",
-            "CheckUser": "http://45.55.41.189:5454/checkUser",
+            "ServerIP": "172.233.181.240",
+            "CheckUser": "http://172.233.181.240:5454/checkUser",
             "ServerPort": "22",
             "SSLPort": "443",
             "USER": "",
