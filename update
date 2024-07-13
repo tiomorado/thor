@@ -1,5 +1,5 @@
 {
-    "Version": "1.0.10",
+    "Version": "1.0.11",
     "ReleaseNotes": "¡Nueva actualización disponible!🧩 \n\n🔥NOVEDADES: MEJORAMIENTO DE SERVIDORES.\n\nMANTÉN LA APLICACIÓN SIEMPRE ACTUALIZADA PARA DISFRUTAR DE LOS PRÓXIMOS SERVICIOS 🏆\nSi usted está conectado y no le funciona correctamente, comuníquese con SOPORTE. ⚙️\n 😎¡DISFRUTA!😎",
     "Sms": "",
     "UrlUpdate": "https://github.com/tiomorado/thor/raw/main/update",
@@ -42,35 +42,25 @@
             "Payload": "HEAD \/ HTTP\/1.1[crlf]Host: gt.claropayment.com[crlf][crlf][split]GET \/ HTTP\/1.1[crlf]Host: dugta3djl8nt5.cloudfront.net[crlf]Connection: Upgrade[crlf]Speed-100: [crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "gt.claropayment.com",
-            "ProxyPort": "80",
+            "ProxyIP": "investors.spotify.com",
+            "ProxyPort": "443",
             "Info": "Proxy"
         },
         {
-      "Name": "CLARO V2✅",
+      "Name": "CLARO Música✅",
             "FLAG": "vivo",
-            "Payload": "HEAD / HTTP/1.1[crlf]Host: gt.claropayment.com[crlf][crlf][split]GET / HTTP/1.1[crlf]Host: dugta3djl8nt5.cloudfront.net[crlf]Connection: Upgrade[crlf]Speed-100: [crlf]Upgrade: Websocket[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "gt.claropayment.com",
-            "ProxyPort": "80",
-            "Info": "Proxy"
+            "Payload": "GET / HTTP/1.1[crlf]Host: f.netcol.nl[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "f.netcol.nl",
+            "TlsIP": "investors.spotify.com",
+            "ProxyIP": "investors.spotify.com",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
         },
         {
       "Name": "Liberty Música✅",
             "FLAG": "vivo",
             "Payload": "",
             "SNI": "spotify.com",
-            "TlsIP": "f.netcol.nl",
-            "ProxyIP": "",
-            "ProxyPort": "",
-            "Info": "Ssl"
-        },
-        {
-      "Name": "Liberty Música V2✅",
-            "FLAG": "vivo",
-            "Payload": "",
-            "SNI": "music.amazon.com",
             "TlsIP": "f.netcol.nl",
             "ProxyIP": "",
             "ProxyPort": "",
@@ -115,16 +105,6 @@
             "ProxyIP": "",
             "ProxyPort": "",
             "Info": "Ssl"
-        },
-         {
-      "Name": "Test",
-            "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.6[crlf]Host: ayuda.tigo.com.co[crlf]Expect: 100-continue[lf][lf][split][lf][lf]GET / HTTP/1.1[crlf]Host: f.hnetcol.online[lf]Expect: 100-continue[lf]Connection: Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf]",
-            "SNI": "whatsapp.com",
-            "TlsIP": "104.16.51.111",
-            "ProxyIP": "104.16.51.111",
-            "ProxyPort": "80",
-            "Info": "Proxy"
         } 
     ]
 }
