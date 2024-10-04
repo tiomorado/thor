@@ -1,5 +1,5 @@
 {
-    "Version": "1.5.9",
+    "Version": "1.6.1",
     "ReleaseNotes": "¡Nueva actualización disponible!🧩 \n\n🔥NOVEDADES: MEJORAMIENTO DE SERVIDORES.\n\nMANTÉN LA APLICACIÓN SIEMPRE ACTUALIZADA PARA DISFRUTAR DE LOS PRÓXIMOS SERVICIOS 🏆\nSi usted está conectado y no le funciona correctamente, comuníquese con SOPORTE. ⚙️\n 😎¡DISFRUTA!😎",
     "Sms": "",
     "UrlUpdate": "https://github.com/tiomorado/thor/raw/main/update",
@@ -17,8 +17,8 @@
             "Name": "VIP",
             "TYPE": "free",
             "FLAG": "br.png",
-            "ServerIP": "170.187.152.166",
-            "CheckUser": "http://170.187.152.166:5454/checkUser",
+            "ServerIP": "172.233.179.54",
+            "CheckUser": "http://172.233.179.54:5454/checkUser",
             "ServerPort": "22",
             "SSLPort": "443",
             "USER": "",
@@ -49,8 +49,8 @@
          {
       "Name": "CLARO Música✅",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: f.netcol.nl[crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "f.netcol.nl",
+            "Payload": "GET / HTTP/1.1[crlf]Host: netcolvip.callofdutyphantominfinito.online[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "netcolvip.callofdutyphantominfinito.online",
             "TlsIP": "investors.spotify.com",
             "ProxyIP": "investors.spotify.com",
             "ProxyPort": "443",
@@ -61,7 +61,7 @@
             "FLAG": "vivo",
             "Payload": "",
             "SNI": "spotify.com",
-            "TlsIP": "f.netcol.nl",
+            "TlsIP": "netcolvip.callofdutyphantominfinito.online",
             "ProxyIP": "",
             "ProxyPort": "",
             "Info": "Ssl"
@@ -101,7 +101,7 @@
             "FLAG": "vivo",
             "Payload": "",
             "SNI": "whatsapp.com",
-            "TlsIP": "f.netcol.nl",
+            "TlsIP": "netcolvip.callofdutyphantominfinito.online",
             "ProxyIP": "",
             "ProxyPort": "",
             "Info": "Ssl"
